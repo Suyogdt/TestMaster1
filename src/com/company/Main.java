@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Dad");
         System.out.println("Mom");
         System.out.println("Son");
+        System.out.println("Girl");
     }
 }
